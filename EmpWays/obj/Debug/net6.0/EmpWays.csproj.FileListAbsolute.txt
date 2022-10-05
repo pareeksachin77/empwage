@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\EmpWays\EmpWays\obj\Debug\net6.0\EmpWays.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EmpWays\EmpWays\obj\Debug\net6.0\EmpWays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\EmpWays\EmpWays\obj\Debug\net6.0\EmpWays.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EmpWays\EmpWays\obj\Debug\net6.0\EmpWays.AssemblyInfo.cs
+C:\Users\user\source\repos\EmpWays\EmpWays\obj\Debug\net6.0\EmpWays.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EmpWays\EmpWays\bin\Debug\net6.0\EmpWays.exe
+C:\Users\user\source\repos\EmpWays\EmpWays\bin\Debug\net6.0\EmpWays.deps.json
+C:\Users\user\source\repos\EmpWays\EmpWays\bin\Debug\net6.0\EmpWays.runtimeconfig.json
+C:\Users\user\source\repos\EmpWays\EmpWays\bin\Debug\net6.0\EmpWays.dll
+C:\Users\user\source\repos\EmpWays\EmpWays\bin\Debug\net6.0\EmpWays.pdb
+C:\Users\user\source\repos\EmpWays\EmpWays\obj\Debug\net6.0\EmpWays.dll
+C:\Users\user\source\repos\EmpWays\EmpWays\obj\Debug\net6.0\refint\EmpWays.dll
+C:\Users\user\source\repos\EmpWays\EmpWays\obj\Debug\net6.0\EmpWays.pdb
+C:\Users\user\source\repos\EmpWays\EmpWays\obj\Debug\net6.0\EmpWays.genruntimeconfig.cache
+C:\Users\user\source\repos\EmpWays\EmpWays\obj\Debug\net6.0\ref\EmpWays.dll
